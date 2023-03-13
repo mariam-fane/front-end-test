@@ -31,6 +31,14 @@ ul li{
     text-align: center;
 }
 
+.col{
+    background-color: aliceblue;
+}
+#col4{
+    background-color: rgb(235, 235, 99);
+    /* border-radius: 20% ; */
+    border-top-right-radius: 10px;
+}
 .contact h3{
     color: white;
     text-decoration:none;

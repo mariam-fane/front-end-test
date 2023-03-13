@@ -18,7 +18,18 @@ ul li{
     display: inline-block;
     padding: 10px 25px;
 }
-
+.about-text h1{
+    color: rgb(66, 24, 236);
+    margin: 20px 0px  20px;
+    font-size: 75px;
+    text-align: center;
+}
+.about-text h2{
+    color: rgb(66, 24, 236);
+    margin: 20px 0px  20px;
+    font-size: 45px;
+    text-align: center;
+}
 
 .contact h3{
     color: white;
